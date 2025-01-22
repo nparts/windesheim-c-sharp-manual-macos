@@ -35,8 +35,8 @@ Deze gids helpt studenten bij het opzetten van hun ontwikkelomgeving op MacOS om
 Als je problemen ondervindt bij het opzetten van je ontwikkelomgeving, neem dan contact op met je docent of vraag hulp op het forum.
 
 # Handige linkjes
-[ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=visual-studio-code)
-[Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app)
-[Testing EF Core Applications (without database)](https://learn.microsoft.com/en-us/ef/core/testing/testing-without-the-database)
-[Unit test controller logic in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing)
-[Introduction to .NET and Docker](https://learn.microsoft.com/en-us/dotnet/core/docker/introduction)
+- [ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=visual-studio-code)
+- [Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app)
+- [Testing EF Core Applications (without database)](https://learn.microsoft.com/en-us/ef/core/testing/testing-without-the-database)
+- [Unit test controller logic in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/testing)
+- [Introduction to .NET and Docker](https://learn.microsoft.com/en-us/dotnet/core/docker/introduction)
